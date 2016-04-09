@@ -1,0 +1,5 @@
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

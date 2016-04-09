@@ -1,0 +1,6 @@
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

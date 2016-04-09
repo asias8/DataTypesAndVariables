@@ -1,0 +1,6 @@
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
