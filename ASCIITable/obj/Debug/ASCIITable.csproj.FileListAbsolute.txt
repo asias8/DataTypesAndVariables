@@ -1,0 +1,5 @@
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\ASCIITable\bin\Debug\ASCIITable.exe.config
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\ASCIITable\bin\Debug\ASCIITable.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\ASCIITable\bin\Debug\ASCIITable.pdb
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\ASCIITable\obj\Debug\ASCIITable.exe
+C:\Users\Asia\Desktop\telerik academy\C # 1 homework\DataTypesAndVariables\ASCIITable\obj\Debug\ASCIITable.pdb
