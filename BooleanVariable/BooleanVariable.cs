@@ -5,7 +5,7 @@ namespace BooleanVariable
 {
 class BooleanVariable
 {
-    static void Main(string[] args)
+    static void Main()
     {
         bool isFemale = true;
         Console.WriteLine(isFemale);
